@@ -1,4 +1,3 @@
-<h1>Vigenere Critpo</h1>
 # Cifra de Vigenère - Aplicação Python
 
 ## 📝 Descrição
